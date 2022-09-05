@@ -3,7 +3,7 @@
 ## Sobre mi
 
 - :man: Mi nombre es Luis Vazquez
-- :notebook: Soy estudiante de **_Ingeniería en sistemas comutacionales_** 
+- :notebook: Soy estudiante de **_Ingeniería en sistemas computacionales_** 
 - :computer: Mis interes son el desarrollo **front-end, back-end y ciberseguridad** 
 - :art: Mis hobbies en mis tiempos libres son diseñar 
 - - - 
